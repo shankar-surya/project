@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Washing Machine Service in Trichy</title>
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+
+	<link rel="stylesheet" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+	<!---- Header --->
+	<section class="tophead">
+		<div class="topcol">
+			<a href="tel:+919788765581"><i class="fa fa-phone"></i> 97887 65581</a>
+			<a href="mailto:saiservicecentre2020@gmail.com"><i class="fa fa-envelope"></i>
+				saiservicecentre2020@gmail.com</a>
+		</div>
+		<div class="topcol2">
+			<a href="#"><i class="fa fa-facebook "></i></a>
+			<a href="#"><i class="fa fa-instagram "></i></a>
+			<a href="#"><i class="fa fa-twitter"></i></a>
+		</div>
+
+	</section>
+
+	<section class="header">
+		<nav>
+			<a href="index.html"> <img src="images/Logo.png"></a>
+			<div class="nav-links" id="navLinks">
+				<i class="fa fa-times" onclick="hideMenu()"></i>
+
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="aboutus.html">About Us</a></li>
+					<li><a href="services.html">Services</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+			</div>
+			<i class="fa fa-bars" onclick="showMenu()"></i>
+
+		</nav>
+
+	</section>
+	<section class="banner">
+		<div class="row">
+			<div class="bannercol-1">
+				<h1>Sai Service Center</h1>
+				<h2>24/7 Customer Support</h2>
+				<p>A leading Washing Machine, Refrigerator and Air Conditioner<br> repair and service centre in Trichy
+				</p>
+			</div>
+		</div>
+	</section>
+
+	<section Class="about" id="about">
+		<div class="row">
+			<div class="about-col anim1">
+				<img src="images/Washing-Machine-Repair_Trichy.jpg">
+			</div>
+
+			<div class="about-col anim2">
+				<h2>About Sai Service Centre</h2>
+				<p> Sai Service Centre is one of the trusted service centre as far as Washing Machine, Refrigerator and
+					Air Conditioner repair & services are concerned. It is located at Thiruvanaikoil, Trichy.
+					Our Service Expert team Provide Repair Services For the brands like LG, Samsung, IFB, Whirlpool,
+					Onida, Godrej, siemens, Bosch and so on. We are committed ourselves to provide the best quality
+					repairing services and installation in around Trichy.
+					While people are searching the best washing machine, Refrigerator or Air conditioner repair and
+					services, we will be the best choice for the trusted service with reasonable cost.
+					Our aim is to have more satisfied customer rather than the numbers of work. We are just prefering
+					the customer’s positive feedback for the work we do. And this is the main reason for our success
+					too.</p>
+			</div>
+		</div>
+	</section>
+
+
+
+	<section class="iconbox">
+		<div class="row">
+			<div class="iconboxcol">
+				<h3>What Makes Sai Service Centre Different</h3>
+				<p>Sai Service Centre is one of the best repair and service providers in and around Trichy,
+					as far as Washing Machines, Refrigerators and Air conditioners are concerned.</p>
+			</div>
+
+			<div class="iconboxcol-1">
+
+				<div class="iconbox-col-1">
+					<i class="fa fa-hand-pointer-o"></i>
+					<h4>Immediate Response</h4>
+					<P>The moment you call us, our team respond immediately and let you know what time, they could come
+						to do the service.</p>
+				</div>
+
+				<div class="iconbox-col-2">
+					<i class="fa fa-users"></i>
+					<h4>Clear Communication</h4>
+					<P>Our team clearly communicate about the services issues happened in the house hold items and so
+						that the customer can plan.</p>
+				</div>
+
+				<div class="iconbox-col-3">
+					<i class="fa fa-cogs"></i>
+					<h4>Original Spare Parts</h4>
+					<P>Whenever we happen to replace some parts of the appliances, we recommend the customer to prefare
+						the original one for the long time run.</p>
+				</div>
+
+			</div>
+
+			<div class="iconboxcol-2">
+				<div class="iconbox-col-4">
+					<i class="fa fa-external-link"></i>
+					<h4>Reasonable Cost</h4>
+					<P>Despite the cost of household items are getting increased day by day, we used to collect the
+						reasonable payment from the customer.</p>
+				</div>
+
+				<div class="iconbox-col-4">
+					<i class="fa fa-signal"></i>
+
+					<h4>Annual Maintenance</h4>
+					<P>Certain appliances requires Annual Maintenance. We offer this service at minimum budget. Hence
+						the customer can trust us.</p>
+				</div>
+
+				<div class="iconbox-col-6">
+					<i class="fa fa-thumbs-o-up"></i>
+					<h4>Customer Satisfaction</h4>
+					<P>Our goal is getting high customer satisfaction rather than quantity of customer base like
+						anything. Their reference is more important to us.</p>
+				</div>
+			</div>
+		</div>
+
+
+	</section>
+
+	<section class="count">
+
+		<div class="row">
+			<div class="counter">
+				<h2>Sai Service Centre, the trusted vendor</h2>
+				<p>Having solid experience in household appliances repair and services, Sai Service Centre holds<br>
+					high response among the customers.</p>
+			</div>
+			<div class="counter-col">
+				<div class="count-col-1">
+					<h2>2,500+</h2>
+					<p>Service are Done</p>
+				</div>
+
+				<div class="count-col-2">
+					<h2>1,500+</h2>
+					<p>Customers</p>
+				</div>
+
+				<div class="count-col-3">
+					<h2>5+</h2>
+					<p>years Experience</p>
+				</div>
+			</div>
+		</div>
+
+
+
+	</section>
+
+
+	<section Class="services">
+		<div class="row">
+			<h2>Services</h2>
+			<p>Our team Provides Repair Services For all top brands like LG , Samsung, IFB, Whirlpool, Onida, Godrej,
+				Siemens, Bosch, Air Conditioners Washing Machine and Refrigerators. We committed to offer the best
+				services you have ever seen.</p>
+
+			<div class="service-col">
+
+				<div class="ser-1">
+					<img src="images/Washing Machine Repair Service in trichy.jpg">
+					<h5>Washing Machine Service in Trichy</h5>
+					<p>Our washing machine repair and service team will offer the best solutions for
+						any issues happening in the washing machine whether it is minor or major ones.</p>
+				</div>
+
+				<div class="ser-2">
+					<img src="images/Refrigerator Repair service in trichy.jpg">
+					<h5>Refrigerator Service in Trichy</h5>
+					<p>We provide the best possible repair and services for all brands refrigerators,
+						be it a single-door refrigerator, a double-door refrigerator or any other models.</p>
+				</div>
+
+				<div class="ser-3">
+					<img src="images/Air Conditioner Reapair service in trichy.jpg">
+					<h5>Air Conditioner Service in Trichy</h5>
+					<p>OOur technicians are having solid experience in air conditioner repairing service.
+						Whether it is related with installation or maintenance we could give you the best solution</p>
+				</div>
+
+
+			</div>
+		</div>
+	</section>
+	<div class="faq-title">
+		<h3>Have Questions? Look Here.</h3>
+	</div>
+
+	<section class="faq">
+
+
+		<div class="accordion" id="accordionPanelsStayOpenExample">
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="panelsStayOpen-headingOne">
+					<button class="accordion-button" type="button" data-bs-toggle="collapse"
+						data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true"
+						aria-controls="panelsStayOpen-collapseOne">
+						Is it worth it to repair a washing machine?
+					</button>
+				</h2>
+				<div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show"
+					aria-labelledby="panelsStayOpen-headingOne">
+					<div class="accordion-body">
+						Washing machine repair is recommended when the repair cost is less than 50 percent of a new
+						machine’s price. If it goes beyond, it is advisable that purchasing the new machine would be
+						better.
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="panelsStayOpen-headingTwo">
+					<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+						data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false"
+						aria-controls="panelsStayOpen-collapseTwo">
+						What are the Washing Machine models which can be repaired?
+					</button>
+				</h2>
+				<div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse"
+					aria-labelledby="panelsStayOpen-headingTwo">
+					<div class="accordion-body">
+						8 kg Semi Automatic Top Loading, 6.2kg Fully Automatic Top Loading, 6.5kg Fully Automatic Front
+						Loading, 7.2kg Semi Automatic Top Loading, 6 kg Fully Automatic Front Loading, 7 kg Fully
+						Automatic Top Loading,
+						7 kg Semi Automatic Top Loading, 8 kg Fully Automatic Front Loading, 6.2 kg Fully Automatic Top
+						Loading,
+						6 kg Fully Automatic Top Loading, 9.5kg Semi Automatic Top Loading, 10 Kg Fully Automatic Top
+						Loading and All other models
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="panelsStayOpen-headingThree">
+					<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+						data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false"
+						aria-controls="panelsStayOpen-collapseThree">
+						Is it worth repairing a fridge?
+					</button>
+				</h2>
+				<div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse"
+					aria-labelledby="panelsStayOpen-headingThree">
+					<div class="accordion-body">
+						Built-in refrigerators are almost always worth repairing. Not only are they less expensive to
+						repair, but they typically have a longer lifespan anyways
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="panelsStayOpen-headingFour">
+					<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+						data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false"
+						aria-controls="panelsStayOpen-collapseFour">
+						What are the Refrigerators models which can be repaired?
+					</button>
+				</h2>
+				<div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse"
+					aria-labelledby="panelsStayOpen-headingFour">
+					<div class="accordion-body">
+						185 Litre Single Door, 80 Litre Single Door, 604 Litre Side By Side, 407 Litre Double Door, 45
+						Litre Single Door, 390 Litre Triple Door, 638 Litre Side by Side, 321 Litre Double Door,
+						190 Litre Single Door, 190 Litre Single Door, 253 Litre Double Door, 50 Litre Single Door and
+						All Other Models
+					</div>
+				</div>
+			</div>
+			<div class="accordion-item">
+				<h2 class="accordion-header" id="panelsStayOpen-headingFive">
+					<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+						data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false"
+						aria-controls="panelsStayOpen-collapseFive">
+						What are the Air conditioners models which can be repaired?
+					</button>
+				</h2>
+				<div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse"
+					aria-labelledby="panelsStayOpen-headingFive">
+					<div class="accordion-body">
+						1 Ton 3 Star Split Ac, 1.5 Ton Split AC, 1.5 Ton 3 Star Split Air Conditioner, 1.5 Ton 3 Star
+						Split AC, 1 Ton Inverter Split AC, 1 Ton Inverter Split AC, 1 Ton 5 Star Inverter Split AC, 2
+						Ton 3 Star Inverter Split AC,
+						1 Ton 5 Star Inverter Window AC, 1.5 Ton 3 Star Split Air Conditioner and All other LG Models
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div class="text-h2">
+	<h2>Contact</h2></div>
+
+	<section class="contact">
+		<div class="row">
+			<div class="contact-col">
+				<form action="from-handler.php" method="post">
+					<input type="text" name="name" placeholder="Name" required>
+					<input type="text" name="mobile" placeholder="Mobile" required>
+					<input type="email" name="email" placeholder="Email" required>
+					<textarea rows="6" name="message" placeholder="Message"></textarea>
+					<button type="submit">Submit</button>
+
+				</form>
+
+			</div>
+
+
+			<div class="contact-col1">
+				<h3>Get In Touch</h3>
+
+				<div class="contact-colm">
+					<i class="fa fa-map-marker"></i>
+
+					<h6>Address</h6>
+					<P>No.25C, Baby illam, Thiruvanaikoil,
+						Trichy, Tamil Nadu - 620005.</p>
+				</div>
+				<div class="iconbox-col-4">
+					<div class="contact-colm">
+						<i class="fa fa-phone"></i>
+						<h6>Mobile</h6>
+						<P><a href="tel:+919788765581"> 97887 65581</a>
+					</div>
+					</p>
+					<div class="contact-colm">
+						<i class="fa fa-envelope"></i>
+						<h6>Mail</h6>
+						<P><a href="mailto:saiservicecentre2020@gmail.com">saiservicecentre2020@gmail.com</a></p>
+
+					</div>
+				</div>
+
+				<div class="social" style="padding-left:30px">
+					<a href="#"><i class="fa fa-facebook"></i></a> 
+					<a href="#"><i class="fa fa-instagram"></i></a> 
+					<a href="#"><i class="fa fa-twitter"></i></a> 
+				</div> 
+			</div>
+		</div>
+
+	</section>
+
+	<section class="footer">
+		<div class="row">
+		<div class="footer-col">
+			<div class="footer-col1">
+				<h3>Quick Links</h3>
+				<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="aboutus.html">About Us</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				</ul>
+			</div>
+			<div class="footer-col2">
+				<h3>Washing Machine service Trichy</h3>
+				<h4>washing machine repair service near me</h4>
+				<h4>washing machine service centre</h4>
+				<h4>washing machine service center Trichy</h4>
+				<h4>washing machine service in Trichy</h4>
+			</div>
+			<div class="footer-col3">
+				<h3>Refrigerator service Trichy</h3>
+				<h4>refrigerator repair service near me</h4>
+				<h4>refrigerator service centre</h4>
+				<h4>refrigerator service center Trichy</h4>
+				<h4>refrigerator service in Trichy</h4>
+			</div>
+			<div class="footer-col4">
+				<h3>Air conditioner service Trichy</h3>
+				<h4>air conditioner repair service near me</h4>
+				<h4>air conditioner service centre</h4>
+				<h4>air conditioner service center Trichy</h4>
+				<h4>air conditioner service in Trichy</h4>
+			</div>
+			</div>
+		</div>
+	</section>
+	<section class="footerter">
+		<div class="copy-footer-col">
+		<p>Copyright © 2022 Trichy Rockfort Service Center | Designed By <a href="https://www.b2bservicesolutions.com/" target="_blank" >B2B Service Solutions</a></p></div>
+		</section>
+
+	<a href="https://wa.me/+919788765581" class="whatsapp_float" target="_blank"> <i
+			class="fa fa-whatsapp whatsapp-icon"></i></a>
+	<a href="tel:+919788765581" class="call_float"> <i class="fa fa-phone" class="phone-icon"></i></a>
+
+
+
+	<!-- JavaScript Bundle with Popper -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+		crossorigin="anonymous"></script>
+	<!-------- JavaScript For toggle Menu----->
+
+	<script>
+		var navLinks = document.getElementById("navLinks");
+		function showMenu() {
+			navLinks.style.right = "0";
+		}
+		function hideMenu() {
+			navLinks.style.right = "-200px";
+		}
+
+	</script>
+</body>
+
+</html>
